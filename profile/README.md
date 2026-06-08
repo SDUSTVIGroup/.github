@@ -18,7 +18,7 @@ Our group focuses on discriminative tasks in image classification, object detect
 
 | Project | Description | Code |
 |---|---|---|
-| -- | -- | Coming soon |
+| ProDream | Official Code for ''Progressive contour guidance and enhanced three-dimensional prior for consistent text-to-three-dimensional generation'' EAAI 2026| [ProDream](https://github.com/SDUSTVIGroup/ProDream) |
 | -- | -- | Coming soon |
 
 
