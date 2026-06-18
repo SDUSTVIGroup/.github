@@ -20,7 +20,7 @@ Our group focuses on discriminative tasks in image classification, object detect
 |---|---|---|
 | AMSA-CAFF Net| Official Code for “AMSA-CAFF Net: Counting and high-quality density map estimation from X-ray images of electronic components” ESWA 2024 |[AMSA-CAFF Net](https://github.com/SDUSTVIGroup/AMSA-CAFF-Net)|
 | ProDream | Official Code for ''Progressive contour guidance and enhanced three-dimensional prior for consistent text-to-three-dimensional generation'' EAAI 2026| [ProDream](https://github.com/SDUSTVIGroup/ProDream) |
-| -- | -- | Coming soon |
+| DI-CD | Official Code for “DI-CD: A dynamic interaction-based task-specifc framework for industrial and remote sensing change detection” ASEJ 2026 | [DI-CD](https://github.com/SDUSTVIGroup/DI-CD) |
 
 
 ## Contact
